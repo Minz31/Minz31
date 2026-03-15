@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aadeshminz31" target="blank"><img src="https://img.shields.io/twitter/follow/aadeshminz31?logo=twitter&style=for-the-badge" alt="aadeshminz31" /></a> </p>
 
-- 🌱 I’m currently learning **Android development, Web devopment**
+- 🌱 I’m currently learning **Web devopment**
 
-- 📫 How to reach me **aadeshminz2016@gmail.com**
+- 📫 How to reach me **aadeshminz31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
